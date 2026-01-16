@@ -7,5 +7,6 @@ public class Practice2 {
 	@Test
 	public void m2() {
 		System.out.println("Hi");
+		System.out.println("Git practice");
 	}
 }
